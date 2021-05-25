@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @rprithvi653
-- 👀 I’m interested in Coding in Python and C languages and i like to play Basketball.
-- 🌱 I’m currently learning Python and c languages.
-- 💞️ I’m looking to collaborate on aoftware development projects.
+- 👋 Hi, I’m Prithvi Raj.
+- 👀 I’m interested in Coding in Python and C languages and I like to play Basketball.
+- 🌱 I’m currently learning Python and C/C++ languages and I also do sort of good web development.
+- 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me ; send me a mail on "rprithvi653@gmail.com"  
-
-<!---
-rprithvi653/rprithvi653 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚗 Connect and message me on LinkedIn - "https://www.linkedin.com/in/prithivi-raj-b69140209/"
+- 👓 Message me on FaceBook at - "http://facebook.com/rprithvi653"
+- 📱 Follow and text me on Instagram at - "https://www.instagram.com/rprithvi653"
